@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning computer science engineering at Global Academy of technology, Bangalore.
 - 💞️ I’m looking to collaborate on back-end stuffs based on java and javascript.
 - 📫 How to reach me ...
-      LinkedIn - https://www.linkedin.com/in/sharanraj19
-      Instagram - https://www.instagram.com/iamsharanraj
+      -LinkedIn - https://www.linkedin.com/in/sharanraj19
+      -Instagram - https://www.instagram.com/iamsharanraj
 
 <!---
 sharan9678/sharan9678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
