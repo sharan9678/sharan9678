@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 <h1 align="center">Hi 👋, I'm Sharan Raj T</h1>
 <h3 align="center">A passionate developer, Computer Science Student from India</h3>
 
