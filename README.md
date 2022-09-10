@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20World%20!&width=850&height=200)
 <h1 align="center">Hi 👋, I'm Sharan Raj T</h1>
 <h3 align="center">A passionate developer, Computer Science Student from India</h3>
 
@@ -10,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharan9678" alt="sharan9678" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsharanraj" target="blank"><img src="https://img.shields.io/twitter/follow/iamsharanraj?logo=twitter&style=for-the-badge" alt="iamsharanraj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamsharanraj" target="blank"><img src="https://img.shields.io/twitter/follow/iamsharanraj?logo=twitter&style=for-the-badge&theme=dark" alt="iamsharanraj" /></a> </p>
 
 - 🔭 I’m currently working on [e-commerce website](https://github.com/sharan9678/e-commerce)
 
